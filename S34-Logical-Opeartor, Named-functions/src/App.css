@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.headingH{
+  font-style:italic;
+  border:3px solid black;
+  border-radius:10px;
+  background-color:beige;
+  padding:5px;
+}
+form{
+  background-color: lightsalmon;
+  width:550px;
+  height:750px;
+  border:3px solid black;
+  font-size:1.4rem;
+}
+form label{
+  width:160px;
+  display:inline-block;
+
+}
+form Div{
+  margin:20px;
+  display:inline-block;
+}
+button{
+  font-size:1.3rem;
+  font-style: oblique;
+  background-color:lightskyblue;
+  padding:3px;
+  border-radius:5px;
+  width:150px;
+}
